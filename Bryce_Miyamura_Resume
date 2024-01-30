@@ -1,0 +1,80 @@
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Bryce Miyamura Resume</title>
+    </head>
+    <body>
+        <h1><b><u>Bryce Akira Miyamura</u></b></h1>
+        <img src="./Profile Pic.png" width="200" alt="profile picture">
+
+        <h2><b>Highlights</b></h2>
+        <ul>
+            <li>Arranger: being efficient and finding alternative ways to complete tasks if the original plan goes awry</li>
+            <li>Developer: loves hearing other people's ideas and working with them to help carry out and improve their plan</li>
+            <li>High integriy: do what you say you're going to do when you say you're going to do it</li>
+        </ul>
+        <hr/>
+
+        <h2>Education</h2>
+        <p><b><i>UNIVERSITY OF CALIFORNIA AT LOS ANGELES, Los Angeles, CA</i></b></p>
+        <p><i>Bachelor of Arts in Economics</i></p>
+
+        <hr/>
+        <h2>Work History</h2>
+        <h3><i>RAZORGATOR TICKETS, Marina del Rey, CA</i></h3>
+        <p><i>Support Specialist</i></p>
+        <ul>
+            <li>Managed all support issues (exterior and interior) for Razorgator's operations, including client/broker emails and phone calls.</li>
+            <li>Oversaw the completion of $1M worth of revenue for the 2014 World Cup</li>
+            <li>Trained new hires and provided insight into their developement with supervising managers</li>
+        </ul>
+        <h3><i>COLLEGE WORKS PAINTING, Irvine, CA</i></h3>
+        <p><i>Intern</i></p>
+        <ul>
+            <li>A premier business and leadership program offered to  undergraduate students. Interns design and implement a marketing program, conduct sales, estimate projects, work with customers and recruit, hire, and train their own employees.</li>
+            <li><b><u>Central California Safety Award</u></b>- based on the highest safety rating, a ratio of reported injuries against hours worked.</li>
+            <li><b><u>Central California Work Ethic Award</u></b>- voted by district managers and vice presidents for the person who demonstrated top work ethic throughout the division.</li>
+            <li><b><u>Central California Customer Service Award</u></b>- awarded to the intern with the highest customer satisfaction rating based on surveys completed by clients.</li>
+            <li><b><u>National Executive Manager Nominee</u></b>- awarded the top executive manager across the nation, based upon revenue, customer satisfaction, and safety.</li>
+        </ul>
+
+        <h3><i>PARTNER ENGINEERING AND SCIENCE, INC., Torrance, CA</i></h3>
+        <p><i>Business Service Coordinator</i></p>
+        <ul>
+            <li>Provide back of office assistance to project and relationship managers.</li>
+            <li>Improved existing systems of operations.</li>
+            <li>Partner Awards 2017: For outstanding performance and exceptional commitment to <b>Team Work</b>.</li>
+        </ul>
+
+        <hr/>
+        <h2>Volunteer Activities</h2>
+
+        <h3><b><i>LITTLE TOKYO SERVICE CENTER, Los Angeles, CA</i></b></h3>
+        <p><i>Mentor/Tutor</i></p>
+        <uL>
+            <li>Collaborated with case managers to create after school workshops in a low income housing apartment.</li>
+            <li>Led discussions with teens about problems they see in their community and what they can do to make an impact.</li>
+        </uL>
+
+        <h3><i>CHRYSALIS, Santa Monica and Los Angeles, CA</i></h3>
+        <p><i>Teacher/Advisor</i></p>
+        <ul>
+            <li>Chryalis is a non-profit organization aimed at helping homeless gain employment.</li>
+            <li>Taught a computer basics class at the office in downtown Los Angeles.</li>
+            <li>Composed resumes and practiced mock interviews with clients at the Santa Monica office.</li>
+        </ul>
+
+        <h3><i>HAMILITON ADULT CENTER, Torrance, CA</i></h3>
+        <p><i>ESL Tutor</i></p>
+        <ul>
+            <li>Assisted immigrant adults in their studies, resulting in improved comprehension and pronunciation of the english language.</li>
+        </ul>
+
+        <h3><i>SILVERADO, Torrance, CA</i></h3>
+        <p><i>Hopice Volunteer</i></p>
+        <ul><li>Visited weekly with patients and spent time with them listening to music, talking about books and current events.</li></ul>
+    </body>
+    <hr/>
+    <footer>@Bryce Miyamura. All rights reserved.</footer>
+</html>
